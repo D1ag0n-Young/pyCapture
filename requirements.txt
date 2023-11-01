@@ -1,0 +1,6 @@
+pandas
+Levenshtein
+scikit-learn
+markdown
+markdown-it-py
+bs4
