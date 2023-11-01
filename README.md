@@ -47,6 +47,12 @@ parser.add_argument('-A', '--All', help='对比所有队伍代码相似度', act
 
 `-A` is for comparing all teams, `-s` is for comparing two teams
 
+```bash
+python3 -t # Whether there are dependencies related to testing tools in the running environment
+python3 -A # Compare all teams
+python3 -s -a team1writeup_zip_file_patch -b team1writeup_zip_file_patch # Compare two teams
+```
+
 ## writeup demo
 
 Please refer to the readme file under writeupdemo for the specific format.
